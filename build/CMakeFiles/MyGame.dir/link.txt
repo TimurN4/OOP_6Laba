@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyGame.dir/src/coords.cpp.o CMakeFiles/MyGame.dir/src/fight_manager.cpp.o CMakeFiles/MyGame.dir/src/main.cpp.o CMakeFiles/MyGame.dir/src/npc.cpp.o CMakeFiles/MyGame.dir/src/observer.cpp.o CMakeFiles/MyGame.dir/src/visitor.cpp.o -o MyGame 
